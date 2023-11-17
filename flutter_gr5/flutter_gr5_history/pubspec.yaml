@@ -1,0 +1,95 @@
+name: flutter_gr5_history
+description: A new Flutter project.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.1.5 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  fl_chart: ^0.40.0 # Thay thế bằng phiên bản mới nhất
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  
+
+  assets:
+  - assets/images/vd1.jpg
+  - assets/images/qlbkt.png
+  - assets/images/nutHome.png
+  - assets/images/lsbkt.png
+  - assets/images/tkbkt.png
+  - assets/images/dsbkt.png
+  - assets/images/avatar.png
+  - assets/images/img1.png
+  - assets/images/img2.png
+  - assets/images/img3.png
+  - assets/images/img4.png
+  - assets/images/img5.png
+  - assets/images/img6.png
+  - assets/images/img7.png
+  - assets/images/img8.png
+  - assets/images/img9.png
+  - assets/images/img10.png
+  - assets/images/kqkt.jpg
+  - assets/images/banner.png
+  - assets/images/Avarta.jpg
+  - assets/images/check.jpg
+  - assets/images/Progress_learn.png
+  - assets/images/Paner.png
+  - assets/images/Test.png
+  - assets/images/Tittle_His.png
+  - assets/images/Saved_item.png
+  - assets/images/anh.png
+  - assets/images/gondola.jpg
+  - assets/images/bachdang.jpg
+  - assets/images/haibatrung.jpg
+  - assets/images/namhan.jpg
+  - assets/images/QuangTrung.jpg
+  - assets/images/dienbienphu.jpg
+  - assets/images/vuahung.jpg
+  - assets/images/namhan2.jpg
+  - assets/images/anh.png
+  - assets/images/Paner.png
+  - assets/images/Tittle_His.png
+  - assets/images/Test.png
+  - assets/images/Progress_learn.png
+  - assets/images/Saved_item.png
+  - assets/images/ledaihanh.jpg
+  - assets/images/trannhunguyet.jpg
+  - assets/images/dinhtienhoang.jpg
+  - assets/images/lynamde.png
+  - assets/images/chudebaihoc.png
+  - assets/images/chudeNVLS.png
+  - assets/images/chudeSKLS.png
+  - assets/images/chudeGDLS.png
+  - assets/images/hungvuong.png
+  - assets/images/haibatrung.png
+  - assets/images/lynamde.png
+  - assets/images/dinhtienhoang.png
+  - assets/images/ngoquyen.png
+  - assets/images/ledaihanh.png
+  - assets/images/tieusuhaibatrung.png
+  
+  
+
+  # fonts:
+  #   - family: Roboto
+  #     fonts:
+  #       - asset: fonts/Roboto-Bold.ttf
+  #         weight: 600
+  #       - asset: fonts/Roboto-Medium.ttf
+  #         weight: 500
+  #       - asset: fonts/Roboto-Regular.ttf
+  #         weight: 400
+  #       - asset: fonts/Roboto-Thin.ttf
+  #         weight: 300
+  
